@@ -1,0 +1,12 @@
+{
+  "name": "les-bases-de-la-programmation-avec-javascript",
+  "version": "1.0.0",
+  "description": "1. Ecrire une fonction `n_parite(n, parite)` qui prend deux arguments n et parite, et calcule la somme de n premiers nombres pairs si parite est vrai, sinon la somme de n premiers nombres impairs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
